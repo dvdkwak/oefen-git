@@ -1,3 +1,3 @@
 # oefen git repo
 
-Dit si een repo om git te oefenen.
+Dit is een repo om git te oefenen.
